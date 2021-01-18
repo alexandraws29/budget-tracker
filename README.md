@@ -9,6 +9,8 @@
 - [Contact](##Contact-me-via-email)
 ## Description
 > This app allows you to keep track of expenses, so you have a clear picture of what you can save.
+![screenshot of the deployed application](screenshot.JPG)
+![screen recording of application in local host](recorded.gif)
 ## How To Install The Application
 > Simply open the app and start tracking expenses.
 ## Usage Information
