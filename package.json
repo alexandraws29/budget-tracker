@@ -1,7 +1,7 @@
 {
   "name": "budget-app",
   "version": "1.0.0",
-  "description": "",
+  "description": "- [Description](##Description)\r - [Installation](##How-to-install)\r - [Usage](##Usage-information)\r - [Contributing](##how-to-contribute)\r - [Tests](##How-to-test-the-application)\r - [GitHub](##Github-profile)\r - [Contact](##Contact-me-via-email)\r ## Description\r > This app allows you to keep track of expenses, so you have a clear picture of what you can save.\r ## How To Install The Application\r > Simply open the app and start tracking expenses.\r ## Usage Information\r > You can use this to keep track of all of your expenses. This gives you a clear picture of what you have and what you can save.\r ## How To Contribute\r > If you would like to make contributions, please contact me via GitHub\r ## How To Test The Application\r > Simply open the app and start tracking expenses.\r ## GitHub Profile\r > github.com/alexandraws29 \r ## Contact Me Via Email\r > <alexandraws29@outlook.com>",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -23,5 +23,6 @@
     "express": "^4.17.1",
     "mongoose": "^5.11.12",
     "morgan": "^1.10.0"
-  }
+  },
+  "devDependencies": {}
 }
